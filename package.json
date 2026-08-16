@@ -1,0 +1,18 @@
+{
+  "name": "wheel-of-names-classroom",
+  "version": "1.0.0",
+  "description": "เว็บวงล้อสุ่มชื่อนักเรียนสำหรับห้องเรียน ไม่มีโฆษณา 100% (Classroom Wheel of Names)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "wheel-of-names",
+    "classroom",
+    "random-picker",
+    "education",
+    "thai-school"
+  ],
+  "author": "Graduatewtk",
+  "license": "MIT"
+}
